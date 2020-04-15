@@ -3,7 +3,7 @@ $code = @'
      public static extern IntPtr GetForegroundWindow();
 '@
 Add-Type $code -Name Utils -Namespace Win32
-$settings = Import-Csv -Path .\WindowsKeyGuac_settings.txt
+$settings = Import-Csv -Path .\DisableWindowsKeySettings.txt
 $start_count = 0
 $stop_count = 0
 $registry_path = "Registry::HKCU\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer"
