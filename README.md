@@ -7,11 +7,11 @@ This script was created to allow users to easily / automatically modify their wi
 
 ## Steps to use
 
-> Download the .ps1 file.
-> Update the .txt file with process names that you want to disable the windows hotkeys when they're in the foreground.
-> Update the .txt with window titles that you want to disable the windows hotkeys when the window is in the foreground.
+1. Download the .ps1 file.
+2. Update the .txt file with process names that you want to disable the windows hotkeys when they're in the foreground.
+3. Update the .txt with window titles that you want to disable the windows hotkeys when the window is in the foreground.
 
 ## Exe usage.
-> Download the .exe file.
-> Update the .txt file with process names that you want to disable the windows hotkeys when they're in the foreground.
-> Update the .txt with window titles that you want to disable the windows hotkeys when the window is in the foreground.
+1. Download the .exe file.
+2. Update the .txt file with process names that you want to disable the windows hotkeys when they're in the foreground.
+3. Update the .txt with window titles that you want to disable the windows hotkeys when the window is in the foreground.
