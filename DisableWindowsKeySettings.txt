@@ -1,0 +1,4 @@
+ProcessName,MainWindowTitle
+chrome,*10.54*
+firefox,*
+edge,*guac.cybertrol*
